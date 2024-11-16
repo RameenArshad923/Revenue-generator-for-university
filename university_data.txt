@@ -1,0 +1,18 @@
+Department Data:
+Department Name: cs
+Number of Students: 10
+Fees Per Student: 30000
+Department Name: 
+Number of Students: 1926528
+Fees Per Student: 9.39341e-318
+Department Name: cs
+Number of Students: 10
+Fees Per Student: 30000
+Department Name: ee
+Number of Students: 10
+Fees Per Student: 30000
+
+Budget Data:
+Previous Year Revenue: $34000
+Total Budget: $900000
+Government Funding: $0
